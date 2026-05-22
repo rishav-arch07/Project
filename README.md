@@ -1,2 +1,2 @@
 # Project
-college project
+college project (GECK)
